@@ -1,0 +1,31 @@
+{
+  "name": "simple-json-server",
+  "version": "0.1.0",
+  "description": "A Node package to base a simple JSON-REST system on.",
+  "main": "server.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "st": "^0.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "bash test/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrootham/simple-json-server.git"
+  },
+  "keywords": [
+    "server",
+    "routes",
+    "routing"
+  ],
+  "author": "Jim Rootham",
+  "license": "LGPL",
+  "bugs": {
+    "url": "https://github.com/jrootham/simple-json-server/issues"
+  },
+  "homepage": "https://github.com/jrootham/simple-json-server"
+}
